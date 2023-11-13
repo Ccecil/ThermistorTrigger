@@ -1,4 +1,7 @@
 # ThermistorTrigger
+
+![ThermistorComparator](https://github.com/Ccecil/ThermistorTrigger/assets/1588588/a894a90b-7d9a-43b2-aed4-66b97815dc1e)
+
 Setpoint trigger designed to be a hardware failsafe for thermistor based temperature readings
 
 This is designed to be a trigger board that can trigger other devices in the event of an overtemperature.  
